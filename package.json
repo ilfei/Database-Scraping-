@@ -1,0 +1,15 @@
+{
+  "name": "db",
+  "version": "1.0.0",
+  "description": "Web Scrape",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Xin",
+  "license": "ISC",
+  "dependencies": {
+    "puppeteer": "^1.5.0",
+    "table-scraper": "^0.1.0"
+  }
+}
